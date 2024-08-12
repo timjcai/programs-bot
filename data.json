@@ -3,8 +3,24 @@
         "message": "Good morning!",
         "checked": true
     },
-    "2024-08-12T15:00:00": {
-        "message": "Don't forget the meeting at 3 PM.",
-        "checked": false
+    "2024-08-12T00:36:00": {
+        "message": "Don't forget the meeting at 3 PM.\nhello\n\nnewline2\nanother new line",
+        "checked": true
+    },
+    "2024-08-12T00:38:10": {
+        "message": "Don't forget the meeting at 3 PM.\nhello\n\nnewline2\nanother new line",
+        "checked": true
+    },
+    "2024-08-12T00:38:20": {
+        "message": "Don't forget the meeting at 3 PM.\nhello\n\nnewline2\nanother new line",
+        "checked": true
+    },
+    "2024-08-12T00:38:30": {
+        "message": "**Don't forget the meeting at 3 PM.**\nhello\n\nnewline2\nanother new line",
+        "checked": true
+    },
+    "2024-08-12T00:38:40": {
+        "message": "Don't forget the meeting at 3 PM.\nhello\n\nnewline2\nanother new line",
+        "checked": true
     }
 }
