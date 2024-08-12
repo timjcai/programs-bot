@@ -1,0 +1,10 @@
+{
+    "2024-08-12T00:23:00": {
+        "message": "Good morning!",
+        "checked": true
+    },
+    "2024-08-12T15:00:00": {
+        "message": "Don't forget the meeting at 3 PM.",
+        "checked": false
+    }
+}
